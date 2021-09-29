@@ -1,0 +1,38 @@
+body{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+background-image: url("bg4.jpg");
+background-size: cover ;
+text-align:center;
+color:white;
+font-weight: bold;
+padding: 100px;
+}
+h1{
+    color:crimson;
+    font-size: 50px;
+
+}
+h2{
+    color:coral;
+    font-size: 60px;
+
+}
+p{
+    font-size: 60px;
+}
+#prev-count{
+    font-style: italic;
+    color: black;
+
+}
+button {
+    background-color: red;
+    width:200px;
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    margin: 15px;
+}
