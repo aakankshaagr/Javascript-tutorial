@@ -8,8 +8,8 @@ font-weight: bold;
 padding: 100px;
 }
 h1{
-    color:crimson;
-    font-size: 50px;
+    color:khaki;
+    font-size: 45px;
 
 }
 h2{
@@ -18,21 +18,21 @@ h2{
 
 }
 p{
-    font-size: 60px;
+    font-size: 50px;
 }
 #prev-count{
     font-style: italic;
-    color: black;
+    color: crimson;
 
 }
 button {
-    background-color: red;
-    width:200px;
+    background-color:chocolate;
+    width:265px;
     color: white;
     font-size: 30px;
     font-weight: bolder;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     border-radius: 20px;
     margin: 15px;
 }
